@@ -12,7 +12,7 @@
       
       : the red line is <img src="https://latex.codecogs.com/svg.latex?\Large&space;0.15n^2" title="\Large O(n^2)" width=40 height=15 />
     
-    - For each *n*, I repeat 100 times
+    - For each *n*, the pass is average of 100 times
 
 <p align="center">
   <img src="https://github.com/SangA-Lee/ALGORITHM/blob/main/Sort/bubble/bubble.jpg" title="bubble.jpg" width=200 height=200/>
