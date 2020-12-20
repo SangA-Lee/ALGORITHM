@@ -1,6 +1,8 @@
-**bubble(sinking) sort** (wiki : [eng](https://en.wikipedia.org/wiki/Bubble_sort) / [kor](https://ko.wikipedia.org/wiki/%EA%B1%B0%ED%92%88_%EC%A0%95%EB%A0%AC))
+## bubble(sinking) sort 
 
-1. Time complexity : <img src="https://latex.codecogs.com/svg.latex?\Large&space;O(n^2)" title="\Large O(n^2)" width=40 height=15 />
+1. WIKI : [eng](https://en.wikipedia.org/wiki/Bubble_sort) / [kor](https://ko.wikipedia.org/wiki/%EA%B1%B0%ED%92%88_%EC%A0%95%EB%A0%AC)
+
+2. Time complexity : <img src="https://latex.codecogs.com/svg.latex?\Large&space;O(n^2)" title="\Large O(n^2)" width=40 height=15 />
 
     - The x-axis is *n* that is the size of data, y-axis is count of pass
 
