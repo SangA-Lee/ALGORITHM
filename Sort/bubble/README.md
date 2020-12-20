@@ -8,6 +8,10 @@
 
     - When the *n* increase from 1 to 96, the pass of bubble sort is like <img src="https://latex.codecogs.com/svg.latex?\Large&space;0.15n^2" title="\Large O(n^2)" width=40 height=15 />
     
+      : the blue line is the pass of bubble sort
+      
+      : the red line is <img src="https://latex.codecogs.com/svg.latex?\Large&space;0.15n^2" title="\Large O(n^2)" width=40 height=15 />
+    
     - For each *n*, I repeat 100 times
 
 <p align="center">
