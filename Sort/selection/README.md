@@ -6,11 +6,11 @@
 
     - The x-axis is *n* that is the size of data, y-axis is count of pass
 
-    - When the *n* increase from 1 to 74, the pass of bubble sort is like <img src="https://latex.codecogs.com/svg.latex?\Large&space;0.37n^2" title="\Large 0.37n^2" width=40 height=15 />
+    - When the *n* increase from 1 to 74, the pass of bubble sort is like <img src="https://latex.codecogs.com/svg.latex?\Large&space;n^{1.8}" title="\Large n^{1.8}" width=40 height=15 />
     
       : the blue line is the pass of selection sort
       
-      : the red line is <img src="https://latex.codecogs.com/svg.latex?\Large&space;0.37n^2" title="\Large 0.37n^2" width=40 height=15 />
+      : the red line is <img src="https://latex.codecogs.com/svg.latex?\Large&space;n^{1.8}" title="\Large n^{1.8}" width=40 height=15 />
     
     - For each *n*, the pass is average of 100 times
     
