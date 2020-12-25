@@ -22,3 +22,32 @@
   <img src="https://github.com/SangA-Lee/ALGORITHM/blob/main/Sort/selection/selection.jpg" title="bubble.jpg" width=200 height=200/>
   <img src="https://github.com/SangA-Lee/ALGORITHM/blob/main/Sort/selection/selection.gif" title="bubble.gif" width=200 height=200/>
 </p>
+
+3. Pseudo code
+
+> input : array *A* that size of *n*  
+> output : array *A* that sorted
+
+(1) MinSelection
+
+    for i=0 to n-2 {
+        min=i
+        for j=i+1 to n-1 {
+            if(A[j]>A[min])
+                min=j
+        }
+        A[i] <-> A[min]
+    }
+    return A
+
+(2) MaxSelection
+
+    for i=0 to n-2 {
+        max=0
+        for j=1 to n-i-1 {
+            if(A[j]>A[max])
+                max=j
+        }
+        A[n-i-1] <-> A[max]
+    }
+    return A
