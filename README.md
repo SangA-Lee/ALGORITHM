@@ -8,7 +8,7 @@
 
 * [x] [insertion](https://github.com/SangA-Lee/ALGORITHM/tree/main/Sort/insertion)
 
-* [ ] shell
+* [x] [shell](https://github.com/SangA-Lee/ALGORITHM/tree/main/Sort/shell)
 
 * [ ] heap
 
