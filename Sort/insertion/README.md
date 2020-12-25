@@ -20,3 +20,18 @@
   <img src="https://github.com/SangA-Lee/ALGORITHM/blob/main/Sort/insertion/insertion.jpg" title="bubble.jpg" width=200 height=200/>
   <img src="https://github.com/SangA-Lee/ALGORITHM/blob/main/Sort/insertion/insertion.gif" title="bubble.gif" width=200 height=200/>
 </p>
+
+3. Pseudo code
+
+> input : array *A* that size of *n*  
+> output : array *A* that sorted
+
+    for i=1 to n-1 {
+        CurrentElement = A[i]
+        j <- i-1
+        while (j>=0) and (A[j]>CurrentElement) {
+            A[j+1]=A[j]
+            j <- j-1
+        }
+        A[j+1] <- CurrentElement
+    }
