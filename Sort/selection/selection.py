@@ -14,7 +14,7 @@ def bubble_max(datas):
     size = len(datas)
     for i in range(0,size):
         max = 0
-        for j in range(0,size-i):
+        for j in range(1,size-i):
             if datas[max] < datas[j]:
                 max = j
                 
