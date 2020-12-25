@@ -20,3 +20,16 @@
   <img src="https://github.com/SangA-Lee/ALGORITHM/blob/main/Sort/bubble/bubble.jpg" title="bubble.jpg" width=200 height=200/>
   <img src="https://github.com/SangA-Lee/ALGORITHM/blob/main/Sort/bubble/bubble.gif" title="bubble.gif" width=200 height=200/>
 </p>
+
+3. Pseudo code
+
+> input : array *A* that size of *n*  
+> output : array *A* that sorted
+
+    for i=1 to n-1 {
+        for j=1 to n-i {
+            if(A[j-1]>A[j])
+                A[j-1] <-> A[j]
+        }
+    }
+    return A
