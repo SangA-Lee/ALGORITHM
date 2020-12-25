@@ -35,3 +35,4 @@
         }
         A[j+1] <- CurrentElement
     }
+    return A
