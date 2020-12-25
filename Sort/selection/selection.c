@@ -23,7 +23,7 @@ void selection_max(int* datas, int size)
     for(int i = 0 ; i < size ; i++)
     {
         max = 0;
-        int j = 0;
+        int j = 1;
         while(j < size-i)
         {
             if(datas[max] < datas[j++])
