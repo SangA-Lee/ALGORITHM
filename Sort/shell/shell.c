@@ -2,7 +2,7 @@
 
 int shell(int* datas, int size)
 {
-    int hibbard_size = 5;
+    int hibbard_size = (int)(size/10)+2;
     int* hibbard_gap = (int*)malloc(sizeof(int)*hibbard_size);
     for(int i = 1 ; i < hibbard_size ; i++)
         hibbard_gap[i] = pow(2,i)-1;
