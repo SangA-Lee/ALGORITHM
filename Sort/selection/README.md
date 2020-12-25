@@ -13,6 +13,10 @@
       : the red line is <img src="https://latex.codecogs.com/svg.latex?\Large&space;0.37n^2" title="\Large 0.37n^2" width=40 height=15 />
     
     - For each *n*, the pass is average of 100 times
+    
+      : Interchange pass+1
+      
+      : Comparison pass+1
 
 <p align="center">
   <img src="https://github.com/SangA-Lee/ALGORITHM/blob/main/Sort/selection/selection.jpg" title="bubble.jpg" width=200 height=200/>
