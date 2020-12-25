@@ -4,9 +4,9 @@
 
 * [x] [bubble/sinking](https://github.com/SangA-Lee/ALGORITHM/tree/main/Sort/bubble)
 
-* [x] selection
+* [x] [selection](https://github.com/SangA-Lee/ALGORITHM/tree/main/Sort/selection)
 
-* [x] insertion
+* [x] [insertion](https://github.com/SangA-Lee/ALGORITHM/tree/main/Sort/insertion)
 
 * [ ] shell
 
