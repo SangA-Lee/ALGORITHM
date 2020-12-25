@@ -1,3 +1,6 @@
+#include <vector>
+using namespace std;
+
 int insertion(vector<int> &datas)
 {
     int pass = 0;
