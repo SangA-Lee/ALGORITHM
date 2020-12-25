@@ -11,7 +11,7 @@ int shell(int* datas, int size)
     for(int idx = 0 ; idx < hibbard_size ; idx++)
     {
         int h = hibbard_gap[idx];
-        for(int i = h ; i < size - 1 ; i++)
+        for(int i = h ; i < size ; i++)
         {
             int cur = datas[i];
             int j = i;
