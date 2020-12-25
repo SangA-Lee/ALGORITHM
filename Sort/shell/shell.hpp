@@ -1,3 +1,6 @@
+#include <vector>
+using namespace std;
+
 int shell(vector<int> &datas)
 {
     int hibbard_size = (int)(datas.size()/10)+2;
